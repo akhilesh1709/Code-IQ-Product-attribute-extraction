@@ -1,0 +1,16 @@
+{
+    "size": {},
+    "weight": {
+        "value": 8.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 6.8
+    },
+    "specifications": {
+        "processor": "snapdragon",
+        "display": "6.8"
+    },
+    "product_name": "Galaxy S23 Ultra"
+}

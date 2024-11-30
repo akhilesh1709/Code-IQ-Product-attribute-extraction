@@ -1,0 +1,20 @@
+{
+    "material": "plastic",
+    "size": {
+        "dimensions": {
+            "length": 12.8,
+            "width": 5.6,
+            "height": 12.4,
+            "unit": "inch"
+        }
+    },
+    "weight": {},
+    "price": {
+        "currency": "₹",
+        "value": 12.8
+    },
+    "specifications": {
+        "display": "12.4"
+    },
+    "product_name": "Nespresso VertuoPlus Coffee Maker"
+}

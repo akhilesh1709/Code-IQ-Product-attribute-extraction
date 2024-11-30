@@ -1,0 +1,16 @@
+{
+    "size": {},
+    "weight": {
+        "value": 5.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 6.1
+    },
+    "specifications": {
+        "display": "6.1",
+        "connectivity": "5g"
+    },
+    "product_name": "iPhone 14 Pro"
+}

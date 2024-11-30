@@ -1,0 +1,16 @@
+{
+    "size": {},
+    "weight": {},
+    "price": {
+        "currency": "₹",
+        "value": 5.0
+    },
+    "specifications": {
+        "connectivity": "usb"
+    },
+    "features": [
+        "wireless",
+        "bluetooth"
+    ],
+    "product_name": "Sony PS5 DualSense Wireless Controller"
+}

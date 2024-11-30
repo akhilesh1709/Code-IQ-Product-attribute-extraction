@@ -1,0 +1,22 @@
+{
+    "color": "gray",
+    "material": "metal",
+    "size": {},
+    "weight": {
+        "value": 1.55,
+        "unit": "kg"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 35.66
+    },
+    "specifications": {
+        "ram": "16",
+        "display": "35.66",
+        "connectivity": "bluetooth"
+    },
+    "features": [
+        "bluetooth"
+    ],
+    "product_name": "Samsung Galaxy Book4 Intel Core i7 13th Gen"
+}

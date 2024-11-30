@@ -1,0 +1,16 @@
+{
+    "size": {},
+    "weight": {
+        "value": 16.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 13.4
+    },
+    "specifications": {
+        "ram": "16",
+        "display": "13.4"
+    },
+    "product_name": "XPS 13 Laptop"
+}

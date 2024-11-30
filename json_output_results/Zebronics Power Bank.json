@@ -1,0 +1,18 @@
+{
+    "color": "black",
+    "material": "metal",
+    "size": {},
+    "weight": {
+        "value": 452.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 100.0
+    },
+    "specifications": {
+        "display": "12.5",
+        "connectivity": "usb"
+    },
+    "product_name": "Zebronics Power Bank"
+}

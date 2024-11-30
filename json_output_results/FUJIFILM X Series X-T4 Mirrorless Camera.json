@@ -1,0 +1,17 @@
+{
+    "color": "silver",
+    "size": {},
+    "weight": {},
+    "price": {
+        "currency": "₹",
+        "value": 4.0
+    },
+    "specifications": {
+        "display": "3",
+        "connectivity": "wifi"
+    },
+    "features": [
+        "touchscreen"
+    ],
+    "product_name": "FUJIFILM X Series X-T4 Mirrorless Camera"
+}

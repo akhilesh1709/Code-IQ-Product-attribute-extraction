@@ -1,0 +1,21 @@
+{
+    "color": "orange",
+    "size": {},
+    "weight": {
+        "value": 73005.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 15.0
+    },
+    "specifications": {
+        "processor": "mediatek",
+        "display": "16.94",
+        "connectivity": "5g"
+    },
+    "features": [
+        "touchscreen"
+    ],
+    "product_name": "CMF by Nothing Phone 1"
+}

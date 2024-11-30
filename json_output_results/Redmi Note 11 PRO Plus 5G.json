@@ -1,0 +1,21 @@
+{
+    "size": {},
+    "weight": {
+        "value": 5.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 220.0
+    },
+    "specifications": {
+        "processor": "snapdragon",
+        "battery": "5000",
+        "display": "16.94",
+        "connectivity": "usb"
+    },
+    "features": [
+        "touchscreen"
+    ],
+    "product_name": "Redmi Note 11 PRO Plus 5G"
+}

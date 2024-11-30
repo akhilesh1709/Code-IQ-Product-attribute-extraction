@@ -1,0 +1,16 @@
+{
+    "color": "black",
+    "size": {},
+    "weight": {
+        "value": 400.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 400.0
+    },
+    "specifications": {
+        "display": "4"
+    },
+    "product_name": "Eluxe Paris women's boots"
+}

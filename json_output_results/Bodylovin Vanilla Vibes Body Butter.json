@@ -1,0 +1,14 @@
+{
+    "material": "plastic",
+    "size": {},
+    "weight": {
+        "value": 25.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 25.0
+    },
+    "specifications": {},
+    "product_name": "Bodylovin Vanilla Vibes Body Butter"
+}

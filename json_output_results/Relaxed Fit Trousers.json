@@ -1,0 +1,13 @@
+{
+    "color": "brown",
+    "size": {},
+    "weight": {},
+    "price": {
+        "currency": "₹",
+        "value": 70.0
+    },
+    "specifications": {
+        "display": "94.0"
+    },
+    "product_name": "Relaxed Fit Trousers"
+}

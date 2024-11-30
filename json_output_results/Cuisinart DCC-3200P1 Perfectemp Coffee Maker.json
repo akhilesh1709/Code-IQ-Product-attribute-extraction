@@ -1,0 +1,23 @@
+{
+    "color": "silver",
+    "size": {
+        "dimensions": {
+            "length": 14.0,
+            "width": 8.0,
+            "height": 9.0,
+            "unit": "inch"
+        }
+    },
+    "weight": {},
+    "price": {
+        "currency": "₹",
+        "value": 14.0
+    },
+    "specifications": {
+        "display": "9"
+    },
+    "features": [
+        "self-cleaning"
+    ],
+    "product_name": "Cuisinart DCC-3200P1 Perfectemp Coffee Maker"
+}

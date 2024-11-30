@@ -1,0 +1,19 @@
+{
+    "color": "silver",
+    "size": {},
+    "weight": {
+        "value": 250.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 250.0
+    },
+    "specifications": {
+        "connectivity": "bluetooth"
+    },
+    "features": [
+        "bluetooth"
+    ],
+    "product_name": "WH-1000XM5 Headphones"
+}

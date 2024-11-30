@@ -1,0 +1,21 @@
+{
+    "color": "white",
+    "size": {
+        "dimensions": {
+            "length": 6.5,
+            "width": 2.3,
+            "height": 0.9,
+            "unit": "inch"
+        }
+    },
+    "weight": {},
+    "price": {
+        "currency": "₹",
+        "value": 6.5
+    },
+    "specifications": {
+        "display": "0.9",
+        "connectivity": "usb"
+    },
+    "product_name": "Anker PowerCore 20100mAh Portable Charger"
+}

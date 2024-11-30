@@ -1,0 +1,19 @@
+{
+    "size": {},
+    "weight": {
+        "value": 855.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 855.0
+    },
+    "specifications": {
+        "processor": "snapdragon",
+        "ram": "12",
+        "storage": "256",
+        "battery": "5000",
+        "connectivity": "5g"
+    },
+    "product_name": "Motorola G85 5G"
+}

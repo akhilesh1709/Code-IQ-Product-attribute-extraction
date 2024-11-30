@@ -1,0 +1,20 @@
+{
+    "size": {},
+    "weight": {
+        "value": 2.8,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 711.0
+    },
+    "specifications": {
+        "processor": "exynos",
+        "battery": "4500",
+        "display": "16.26"
+    },
+    "features": [
+        "touchscreen"
+    ],
+    "product_name": "SAMSUNG Galaxy S23 FE"
+}

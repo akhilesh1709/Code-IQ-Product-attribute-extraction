@@ -1,0 +1,17 @@
+{
+    "color": "black",
+    "material": "polyester",
+    "size": {},
+    "weight": {
+        "value": 3.0,
+        "unit": "kg"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 90.0
+    },
+    "specifications": {
+        "display": "42"
+    },
+    "product_name": "Safari Medium Check-in Suitcase"
+}

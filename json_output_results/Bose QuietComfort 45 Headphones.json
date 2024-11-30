@@ -1,0 +1,16 @@
+{
+    "color": "black",
+    "size": {},
+    "weight": {},
+    "price": {
+        "currency": "₹",
+        "value": 5.1
+    },
+    "specifications": {
+        "connectivity": "bluetooth"
+    },
+    "features": [
+        "bluetooth"
+    ],
+    "product_name": "Bose QuietComfort 45 Headphones"
+}

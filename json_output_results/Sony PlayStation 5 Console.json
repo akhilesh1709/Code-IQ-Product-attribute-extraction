@@ -1,0 +1,23 @@
+{
+    "size": {
+        "dimensions": {
+            "length": 15.4,
+            "width": 10.2,
+            "height": 4.0,
+            "unit": "inch"
+        }
+    },
+    "weight": {
+        "value": 4.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 15.4
+    },
+    "specifications": {
+        "display": "4",
+        "connectivity": "4g"
+    },
+    "product_name": "Sony PlayStation 5 Console"
+}

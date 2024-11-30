@@ -1,0 +1,24 @@
+{
+    "color": "black",
+    "material": "plastic",
+    "size": {
+        "dimensions": {
+            "length": 37.3,
+            "width": 169.3,
+            "height": 105.3,
+            "unit": "cm"
+        }
+    },
+    "weight": {
+        "value": 38.9,
+        "unit": "kg"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 108.0
+    },
+    "specifications": {
+        "display": "108"
+    },
+    "product_name": "LG Full HD LED Smart TV"
+}

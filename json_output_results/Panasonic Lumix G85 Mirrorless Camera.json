@@ -1,0 +1,20 @@
+{
+    "color": "black",
+    "size": {
+        "dimensions": {
+            "length": 5.0,
+            "width": 4.0,
+            "height": 3.0,
+            "unit": "inch"
+        }
+    },
+    "weight": {},
+    "price": {
+        "currency": "₹",
+        "value": 5.0
+    },
+    "specifications": {
+        "display": "3"
+    },
+    "product_name": "Panasonic Lumix G85 Mirrorless Camera"
+}

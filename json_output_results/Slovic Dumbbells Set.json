@@ -1,0 +1,14 @@
+{
+    "color": "black",
+    "size": {},
+    "weight": {
+        "value": 5.0,
+        "unit": "kg"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 5.0
+    },
+    "specifications": {},
+    "product_name": "Slovic Dumbbells Set"
+}

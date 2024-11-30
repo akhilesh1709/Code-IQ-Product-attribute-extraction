@@ -1,0 +1,20 @@
+{
+    "size": {},
+    "weight": {
+        "value": 256.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 30.0
+    },
+    "specifications": {
+        "display": "34.54",
+        "connectivity": "usb"
+    },
+    "features": [
+        "wireless",
+        "bluetooth"
+    ],
+    "product_name": "MacBook AIR Apple M2"
+}

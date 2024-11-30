@@ -1,0 +1,17 @@
+{
+    "size": {},
+    "weight": {
+        "value": 8.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 11.0
+    },
+    "specifications": {
+        "processor": "snapdragon",
+        "ram": "8",
+        "display": "11"
+    },
+    "product_name": "Samsung Galaxy Tab S7 Tablet"
+}

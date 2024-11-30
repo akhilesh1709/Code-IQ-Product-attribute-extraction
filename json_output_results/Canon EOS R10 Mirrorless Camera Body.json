@@ -1,0 +1,13 @@
+{
+    "color": "black",
+    "size": {},
+    "weight": {},
+    "price": {
+        "currency": "₹",
+        "value": 10.0
+    },
+    "specifications": {
+        "connectivity": "wifi"
+    },
+    "product_name": "Canon EOS R10 Mirrorless Camera Body"
+}

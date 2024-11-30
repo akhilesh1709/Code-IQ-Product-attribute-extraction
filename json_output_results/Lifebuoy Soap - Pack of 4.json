@@ -1,0 +1,15 @@
+{
+    "size": {},
+    "weight": {
+        "value": 500.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 500.0
+    },
+    "specifications": {
+        "connectivity": "5g"
+    },
+    "product_name": "Lifebuoy Soap - Pack of 4"
+}

@@ -1,0 +1,16 @@
+{
+    "size": {},
+    "weight": {
+        "value": 165.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 22.5
+    },
+    "specifications": {
+        "battery": "10000",
+        "connectivity": "usb"
+    },
+    "product_name": "Boult 10000 mAh 22.5 W Power Bank"
+}

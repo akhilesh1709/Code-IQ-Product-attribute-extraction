@@ -1,0 +1,21 @@
+{
+    "color": "gray",
+    "size": {},
+    "weight": {
+        "value": 512.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 45.0
+    },
+    "specifications": {
+        "display": "39.62",
+        "connectivity": "usb"
+    },
+    "features": [
+        "wireless",
+        "bluetooth"
+    ],
+    "product_name": "Thin and Light Laptop"
+}

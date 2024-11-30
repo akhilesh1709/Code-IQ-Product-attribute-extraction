@@ -1,0 +1,13 @@
+{
+    "color": "black",
+    "size": {},
+    "weight": {},
+    "price": {
+        "currency": "₹",
+        "value": 60.0
+    },
+    "specifications": {
+        "connectivity": "usb"
+    },
+    "product_name": "FKU Micro USB, USB Type C, Lightning OTG Adapter"
+}

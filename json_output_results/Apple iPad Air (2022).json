@@ -1,0 +1,16 @@
+{
+    "size": {},
+    "weight": {
+        "value": 256.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 10.9
+    },
+    "specifications": {
+        "storage": "256",
+        "display": "10.9"
+    },
+    "product_name": "Apple iPad Air (2022)"
+}

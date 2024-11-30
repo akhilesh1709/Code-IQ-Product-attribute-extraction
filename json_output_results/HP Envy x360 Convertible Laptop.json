@@ -1,0 +1,20 @@
+{
+    "color": "silver",
+    "size": {},
+    "weight": {
+        "value": 16.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 13.0
+    },
+    "specifications": {
+        "ram": "16",
+        "display": "13"
+    },
+    "features": [
+        "touchscreen"
+    ],
+    "product_name": "HP Envy x360 Convertible Laptop"
+}

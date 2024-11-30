@@ -1,0 +1,17 @@
+{
+    "material": "cotton",
+    "size": {},
+    "weight": {
+        "value": 84.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 34.0
+    },
+    "specifications": {
+        "display": "34",
+        "connectivity": "4g"
+    },
+    "product_name": "Cotton twill cap"
+}

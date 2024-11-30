@@ -1,0 +1,20 @@
+{
+    "color": "black",
+    "size": {},
+    "weight": {
+        "value": 662.0,
+        "unit": "g"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 36.5
+    },
+    "specifications": {
+        "display": "36.5",
+        "connectivity": "bluetooth"
+    },
+    "features": [
+        "bluetooth"
+    ],
+    "product_name": "Portronics Radian Soundbar"
+}

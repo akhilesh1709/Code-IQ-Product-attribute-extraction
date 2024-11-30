@@ -1,0 +1,20 @@
+{
+    "color": "black",
+    "size": {},
+    "weight": {
+        "value": 3.5,
+        "unit": "kg"
+    },
+    "price": {
+        "currency": "₹",
+        "value": 3.5
+    },
+    "specifications": {
+        "display": "24",
+        "connectivity": "bluetooth"
+    },
+    "features": [
+        "bluetooth"
+    ],
+    "product_name": "Atomberg SL1 Smart Door Lock"
+}

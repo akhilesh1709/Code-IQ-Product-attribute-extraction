@@ -1,0 +1,13 @@
+{
+    "color": "green",
+    "size": {},
+    "weight": {},
+    "price": {
+        "currency": "₹",
+        "value": 10.0
+    },
+    "specifications": {
+        "display": "10"
+    },
+    "product_name": "OXO Good Grips Salad Spinner"
+}
